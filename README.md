@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## How to create GitHub Pages with Jekyll Themes Cayman
+
+A responsive theme for your project on GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/shaojunlu/shaojunlu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
